@@ -1,0 +1,15 @@
+*.zip
+/foa_dev/ 
+/PretrainedSED/
+/Voxtral-Mini-3B-2507/
+/task1/local/
+/task2/task2_test_audio/
+/task2/local/
+/task3/local/
+/task3/task3_test_audio/
+/Supplementary experiments/task4/local/
+/Supplementary experiments/task5/local/
+/Kimi-Audio-7B-Instruct/
+/Kimi-Audio/
+/Aero-1-Audio/
+/note.md
