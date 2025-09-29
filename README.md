@@ -4,10 +4,10 @@ Large Audio Language Models (LALMs) are widely used for audio understanding and 
 
 ## Table of Contents
 
-- [Overview](# Overview)
-- [Installation](# Installation)
-- [Usage](# usage)
-- [License](# license)
+- [Overview](#overview)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
 
 ## Overview
 
