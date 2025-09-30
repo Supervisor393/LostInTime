@@ -59,7 +59,7 @@ python voxtral.py
 
 ### task2
 
-`/LostInTime/task2/` contains the code for experiment 2, the impact of event position on temporal bias. You can get the test audio from the google drive. Or you can use the code from `/LostInTime/task2/data_process/select_events.py` to select fit audio events.Then, use the following command:
+`/LostInTime/task2/` contains the code for experiment 2, the impact of event position on temporal bias. You can get the test audio from the [google drive](https://drive.google.com/file/d/1TlXqldYeGWU2t09NNDNyRgprnJMNK6fD/view?usp=sharing). Or you can use the code from `/LostInTime/task2/data_process/select_events.py` to select fit audio events.Then, use the following command:
 
 ```python
 python voxtral.py --manifests /path/to/manifest1.csv /path/to/manifest2.csv ... --out /path/to/output.csv --audio-root /path/to/audio/files
@@ -67,7 +67,7 @@ python voxtral.py --manifests /path/to/manifest1.csv /path/to/manifest2.csv ... 
 
 ### task3
 
-`/LostInTime/task2/` contains the code for experiment 3, the impact of event position on temporal bias. You can get the test audio from the google drive. Or you can use the code from `/LostInTime/task3/data_process/collect_window_candidates.py` to select fit audio segments.Then, use the following command:
+`/LostInTime/task2/` contains the code for experiment 3, the impact of event position on temporal bias. You can get the test audio from the [google drive](https://drive.google.com/file/d/1nU6RMre-NV3BAEZajBZXVMnd8_Ow0O4r/view?usp=sharing). Or you can use the code from `/LostInTime/task3/data_process/collect_window_candidates.py` to select fit audio segments.Then, use the following command:
 
 ```python
 python vostral.py --manifest /path/to/manifest.csv --out /path/to/output.csv
@@ -78,3 +78,4 @@ python vostral.py --manifest /path/to/manifest.csv --out /path/to/output.csv
 `/LostInTime/Supplementary experiments/` contains the code for experiment, Nonsense and Event Detection Capabilities of LALMs. You can simply run the scripts for corresponding results.
 
 ## License
+
